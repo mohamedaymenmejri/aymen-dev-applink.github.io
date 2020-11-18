@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.digitu.instantenabledClientLocationDetector",
+      "sha256_cert_fingerprints":
+      ["83:95:FD:D2:35:E4:7D:20:15:6C:7D:3D:90:0C:6B:24:FF:09:82:86:E5:C5:E8:A7:13:7A:D1:D7:90:51:45:FD"]
+    }
+  }]
