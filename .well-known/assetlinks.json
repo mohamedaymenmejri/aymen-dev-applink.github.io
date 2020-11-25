@@ -6,4 +6,13 @@
       "sha256_cert_fingerprints":
       ["83:95:FD:D2:35:E4:7D:20:15:6C:7D:3D:90:0C:6B:24:FF:09:82:86:E5:C5:E8:A7:13:7A:D1:D7:90:51:45:FD"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.digitu.instantenabledClientLocationDetector",
+      "sha256_cert_fingerprints":
+      ["CA:CD:7C:32:32:25:8D:C1:AB:0A:8B:90:B2:7F:8A:32:87:58:E6:0B:68:BA:6A:CD:F7:A1:1B:67:87:63:D9:95"]
+    }
   }]
