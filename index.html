@@ -7,10 +7,10 @@
       //iPhone Version:
       if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
           window.location = "https://apps.apple.com/ca/app/sushiwan-best-sushi-tunisia/id1574199554";
-      }
-      //Android Version:
-      if(navigator.userAgent.match(/android/i)) {
+      }else if(navigator.userAgent.match(/android/i)) {
           window.location = "https://play.google.com/store/apps/details?id=com.digitu.sushiwan";
+      }else {
+         window.location = "https://sushiwan.net";
       }
     </script>
   </head>
